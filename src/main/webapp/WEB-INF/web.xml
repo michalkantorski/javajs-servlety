@@ -1,0 +1,16 @@
+<web-app>
+    <servlet>
+        <servlet-name>HelloServlet</servlet-name>
+        <servlet-class>com.sda.HelloServlet</servlet-class>
+
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>HelloServlet</servlet-name>
+        <url-pattern>/Hello-world</url-pattern>>
+    </servlet-mapping>
+
+</web-app>
+
+
+
